@@ -5,7 +5,7 @@
 <h1>This is a ABOUT Section of my PHP Website</h1>
 <div class="form-group">
 <div class="Example">
-  <p><b>This is a Test Page</b></p>
+  <p><b>This is a Test Pager</b></p>
 
 </body>
 </html>
